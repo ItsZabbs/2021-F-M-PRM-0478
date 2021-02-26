@@ -2,9 +2,7 @@
 Cambridge Computer Science (0478) Pre-Release Material Python code containing all tasks
 #
 #
-##### Features
-#
-#
+### Features
 
 This Pre-Release Material (or PRM for short) is from Cambridge International Assessments' Computer Science syllabus (code : 0478). This repository has two files.
 PRM2021.py being for Tasks 1 & 2 and the latter being for all the Tasks combined.
